@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="5.6.4">
+    <config>
+        <recursos>RECURSOS</recursos>
+        <idioma>0</idioma>
+        <licencia></licencia>
+        <corfondo>ffffff</corfondo>
+        <corbanda>ffffff</corbanda>
+        <cornavega>ffffff</cornavega>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <titulo>ACTIVIDADES</titulo>
+        <autor>MAYTE, LAUREN. NAILETH</autor>
+        <imaxefondo posx="-68" posy="-40" trans="100">Captura_de_pantalla_2025-05-05_205042.png</imaxefondo>
+        <informe>0</informe>
+        <botonson>0</botonson>
+        <maximizar>0</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >CORRECTO</correcto>
+        <incorrecto son="" modo="1" >INCORRECTO</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>2</tipo>
+        </paxina>
+        <paxina id="2" >
+              <tipo>3</tipo>
+              <imaxe>Captura_de_pantalla_2025-05-05_192434.png</imaxe>
+              <filas>5</filas>
+              <columnas>5</columnas>
+              <reixa>1</reixa>
+            <forma>1</forma>
+        </paxina>
+        <paxina id="3" >
+              <tipo>35</tipo>
+              <forma>1</forma>
+              <completa>Captura_de_pantalla_2025-05-05_193305.png</completa>
+              <completa>Captura_de_pantalla_2025-05-05_193312.png</completa>
+              <completa>Captura_de_pantalla_2025-05-05_193327.png</completa>
+              <completa>Captura_de_pantalla_2025-05-05_193336.png</completa>
+              <completa>Captura_de_pantalla_2025-05-05_193344.png</completa>
+        </paxina>
+        <paxina id="4" >
+              <tipo>4</tipo>
+              <modo>2</modo>
+              <sopa enun="Captura_de_pantalla_2025-05-05_184714.png">VACA</sopa>
+              <sopa enun="Captura_de_pantalla_2025-05-05_184731.png">POLLITO</sopa>
+              <sopa enun="Captura_de_pantalla_2025-05-05_184837.png">TORTUGA</sopa>
+              <sopa enun="Captura_de_pantalla_2025-05-05_185008.png">MONO</sopa>
+              <sopa enun="Captura_de_pantalla_2025-05-05_185035.png">CABALLO</sopa>
+              <sopa enun="Captura_de_pantalla_2025-05-05_185103.png">LEÓN</sopa>
+              <sopa enun="Captura_de_pantalla_2025-05-05_185214.png">CONEJO</sopa>
+              <sopa enun="Captura_de_pantalla_2025-05-05_185249.png">PAJARO</sopa>
+              <enunciado>1</enunciado>
+              <colorea>1</colorea>
+              <cadro>1</cadro>
+              <fondo>DESCUBRE LOS ANIMALES</fondo>
+        </paxina>
+        <paxina id="5" >
+              <tipo>17</tipo>
+              <parellas>Captura_de_pantalla_2025-05-05_190648.png</parellas>
+              <parellas>Captura_de_pantalla_2025-05-05_190747.png</parellas>
+              <parellas>Captura_de_pantalla_2025-05-05_190824.png</parellas>
+              <parellas>Captura_de_pantalla_2025-05-05_191050.png</parellas>
+              <parellas>Captura_de_pantalla_2025-05-05_190923.png</parellas>
+              <parellas>Captura_de_pantalla_2025-05-05_191006.png</parellas>
+              <cfondo>FFFFB3</cfondo>
+              <ctapa>FFFFB3</ctapa>
+              <tempo>5</tempo>
+        </paxina>
+        <paxina id="6" >
+              <tipo>35</tipo>
+              <forma>1</forma>
+              <completa>Captura_de_pantalla_2025-05-05_203613.png</completa>
+              <completa>Captura_de_pantalla_2025-05-05_203537.png</completa>
+              <completa>Captura_de_pantalla_2025-05-05_203546.png</completa>
+              <completa>Captura_de_pantalla_2025-05-05_203605.png</completa>
+              <completa>Captura_de_pantalla_2025-05-05_203555.png</completa>
+        </paxina>
+        <paxina id="7" >
+              <tipo>17</tipo>
+              <parellas>Captura_de_pantalla_2025-05-05_190648.png</parellas>
+              <parellas>Captura_de_pantalla_2025-05-05_190747.png</parellas>
+              <parellas>Captura_de_pantalla_2025-05-05_190824.png</parellas>
+              <parellas>Captura_de_pantalla_2025-05-05_191050.png</parellas>
+              <parellas>Captura_de_pantalla_2025-05-05_190923.png</parellas>
+              <parellas>Captura_de_pantalla_2025-05-05_191006.png</parellas>
+              <cfondo>FFFFB3</cfondo>
+              <ctapa>FFFFB3</ctapa>
+              <tempo>5</tempo>
+        </paxina>
+        <paxina id="8" >
+              <tipo>35</tipo>
+              <forma>1</forma>
+              <completa>Captura_de_pantalla_2025-05-05_193305.png</completa>
+              <completa>Captura_de_pantalla_2025-05-05_193312.png</completa>
+              <completa>Captura_de_pantalla_2025-05-05_193327.png</completa>
+              <completa>Captura_de_pantalla_2025-05-05_193336.png</completa>
+              <completa>Captura_de_pantalla_2025-05-05_193344.png</completa>
+        </paxina>
+    </libro>
+</lim>
